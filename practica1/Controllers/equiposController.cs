@@ -20,6 +20,7 @@ namespace practica1.Controllers
         public equiposController(EquiposContext equiposContext)
         {
             _equiposContext = equiposContext;
+            
         }
 
 
